@@ -39,7 +39,7 @@ public class Calculator{
         System.out.println(sub);
 
         // Multiplication
-        int mul = myCalculator.multiply(452,9);
+        int mul = myCalculator.multiply(3,12);
         System.out.println(mul);
 
         // Division
