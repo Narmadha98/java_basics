@@ -1,2 +1,1 @@
-# LearningJava
 Java Basics 
